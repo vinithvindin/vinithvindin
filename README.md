@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-# Hi, I'm Vinith 👋
 
-<!--
-**vinithvindin/vinithvindin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring QA Automation Engineer  
+💻 Skilled in Selenium, Java, TestNG  
+📍 Based in Coimbatore  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Automation Testing (Selenium)
+- Core Java
+- Manual Testing
+- API Testing
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Login Automation Testing
+- E-commerce Automation
+- API Testing (RestAssured)
+
+## 🎯 Goal
+To become a skilled Automation Test Engineer and contribute to high-quality software delivery.
+
+📫 Reach me: kvinithdinesh@yahoo.com
