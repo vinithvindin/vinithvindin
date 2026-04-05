@@ -1,4 +1,4 @@
-<!-# Hi, I'm Vinith 👋
+# Hi, I'm Vinith 👋
 
 🚀 Aspiring QA Automation Engineer  
 💻 Skilled in Selenium, Java, TestNG  
